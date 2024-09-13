@@ -1,0 +1,13 @@
+#myhead{
+    color: rgb(26, 30, 249);
+    font-size: 36px;
+    }
+    /* if we have id , we use # */
+    
+    a{
+        text-decoration: none;
+    }
+    .sidebar{
+        background-color: rgb(224, 255, 255);
+    }
+    
